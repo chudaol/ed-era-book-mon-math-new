@@ -1,6 +1,14 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Математика
+# Математика (Оновлено)
+
+<hr>
+
+Перед вами оновлена версія програми за результатами коментарів дописувачів на EdEra та обговорень у робочих експертних групах після першого етапу публічного обговорення. Незабаром відкриється можливість коментування цієї програми, слідкуйте за новинами. 
+
+Щоб побачити, що саме було змінено у цій програмі, потрібно перейти у розділ <a href="http://mathmon14-new.ed-era.com/opus_zmyn.html">«Опис ключових змін до проекту оновленої програми з математики»</a>.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v5ZthJ0yOSU" frameborder="0" allowfullscreen></iframe></center>
 
 <hr>
 
