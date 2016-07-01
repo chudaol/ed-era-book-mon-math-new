@@ -38,7 +38,7 @@
         }
     },
     "variables": {
-      "basePath": "http://mathmon14.ed-era.com/"
+      "basePath": "http://mathmon14-new.ed-era.com/"
     },
     "links": {
         "gitbook": false,
