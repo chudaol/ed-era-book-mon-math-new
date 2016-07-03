@@ -30,8 +30,7 @@
    * [Швидкість](shvydkyst.md)
    * [Площа](plosha.md)
 * [Сюжетні задачі (протягом року)](syuzhetny_zadachy_protyagom_roku.md)
-   * [Узагальнення і систематизація навчального матеріалу за 3-й клас](uzagalnennya5.md)
-   * [Прості й складені задачі](prosty_i_skladeny_zadachy.md)
+   * [Узагальнення і систематизація навчального матеріалу за 3-й клас. Прості й складені задачі](uzagalnennya5.md)
    * [Загальні прийоми розв’язування задач](zagalny_priiomi_rozvyazuvannya_zadach.md)
 * [Додаткові теми](dodatkovy_temi.md)
 

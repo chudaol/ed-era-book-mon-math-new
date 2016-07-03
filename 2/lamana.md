@@ -7,7 +7,7 @@
     <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
   <tr>
-    <td width="40%" style="vertical-align:top !important;"><b>Маса</b><br>
+    <td width="40%" style="vertical-align:top !important;"><b>Ламана</b><br>
 Ламана, ланки ламаної.<br> 
 Довжина ламаної.<br></td>
     <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>

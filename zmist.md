@@ -158,8 +158,7 @@
 </ul>
 <li><a href="http://mathmon14-new.ed-era.com/3/syuzhetny_zadachy_protyagom_roku.html">Сюжетні задачі (протягом року)</a></li>
 <ul type="circle">
-<li><a href="http://mathmon14-new.ed-era.com/3/uzagalnennya_sistematizatsya_navchalnogo_materyalu_za_2_klas.html">Узагальнення і систематизація навчального матеріалу за 2-й клас</a></li>
-<li><a href="http://mathmon14-new.ed-era.com/3/prosty_ta_skladeny_zadachy_vivchenih_vidiv.html">Прості та складені задачі вивчених видів</a></li>
+<li><a href="http://mathmon14-new.ed-era.com/3/uzagalnennya_sistematizatsya_navchalnogo_materyalu_za_2_klas.html">Узагальнення і систематизація навчального матеріалу за 2-й клас. Прості та складені задачі вивчених видів</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/prosty_zadachy.html">Прості задачі</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/skladeny_zadachy.html">Складені задачі та обернені до них</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/zagalny_priiomi_rozvyazuvannya_zadach.html">Загальні прийоми розв’язування задач</a></li>
@@ -211,8 +210,7 @@
 </ul>
 <li><a href="http://mathmon14-new.ed-era.com/4/syuzhetny_zadachy_protyagom_roku.html">Сюжетні задачі (протягом року)</a></li>
 <ul type="circle">
-<li><a href="http://mathmon14-new.ed-era.com/4/uzagalnennya5.html">Узагальнення і систематизація навчального матеріалу за 3-й клас</a></li>
-<li><a href="http://mathmon14-new.ed-era.com/4/prosty_i_skladeny_zadachy.html">Прості й складені задачі</a></li>
+<li><a href="http://mathmon14-new.ed-era.com/4/uzagalnennya5.html">Узагальнення і систематизація навчального матеріалу за 3-й клас. Прості й складені задачі</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/4/zagalny_priiomi_rozvyazuvannya_zadach.html">Загальні прийоми розв’язування задач</a></li>
 </ul>
 <li><a href="http://mathmon14-new.ed-era.com/4/dodatkovy_temi.html">Додаткові теми</a></li>

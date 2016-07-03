@@ -1,7 +1,7 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 # 2 клас
-140 год (4 години на тиждень)
+136 год (4 години на тиждень)
 ---------------------
 <p><b>Зміст розділу:</b></p>
 * [Числа. Дії з числами](chisla_dii_iz_chislami.md)
