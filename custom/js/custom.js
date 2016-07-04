@@ -12,14 +12,14 @@ $(document).ready(function () {
     }, 100)
 
     _hcwp = window._hcwp || [];
-    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 77392});
+    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
     (function() {
       HC_LOAD_INIT = true;
       var lang = "uk";
       $("script[src*='w.hypercomments.com/widget']").remove();
       $("script[src*='static.hypercomments.com/widget/hcembed']").remove();
       var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
-      hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/77392/"+lang+"/widget.js";
+      hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/74671/"+lang+"/widget.js";
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hcc, s.nextSibling);
     })();
