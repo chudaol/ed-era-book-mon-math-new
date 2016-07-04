@@ -19,7 +19,7 @@ $(document).ready(function () {
       $("script[src*='w.hypercomments.com/widget']").remove();
       $("script[src*='static.hypercomments.com/widget/hcembed']").remove();
       var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
-      hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/74671/"+lang+"/widget.js";
+      hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/77392/"+lang+"/widget.js";
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hcc, s.nextSibling);
     })();
