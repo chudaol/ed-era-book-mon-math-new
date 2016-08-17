@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;"><b>Числові рівності й нерівності</b><br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>складає</i> числові рівності і нерівності при порівнянні числових виразів;<br>
 <i>читає</i> числові рівності і нерівності.<br></td>
   </tr>

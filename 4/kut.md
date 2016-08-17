@@ -9,7 +9,7 @@
   <tr>
     <td width="40%" style="vertical-align:top !important;"><b>Кут</b><br>
 Види кутів: прямі, гострі, тупі. </td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>розрізняє</i> прямі й непрямі кути, <i>класифікує</i> кути на прямі й непрямі (гострі, тупі);<br>
 <i>креслить</i> кути за допомогою косинця.<br></td>
   </tr>

@@ -9,7 +9,7 @@
   <tr>
     <td width="40%" style="vertical-align:top !important;"><b>Правила знаходження невідомих компонентів дій множення і ділення</b><br>
 Знаходження невідомих множника, діленого, дільника.<br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>застосовує</i> в обчисленнях правила знаходження невідомих  множника, діленого, дільника.<br></td>
   </tr>
 </table>

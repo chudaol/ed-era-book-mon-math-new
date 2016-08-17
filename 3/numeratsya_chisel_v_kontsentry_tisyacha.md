@@ -1,13 +1,13 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Нумерація чисел в концентрі «Тисяча»
+# Нумерація чисел у концентрі «Тисяча»
 <table>
   <tr>
     <td width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
     <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
   <tr>
-    <td width="40%" style="vertical-align:top !important;"><b>Нумерація чисел в концентрі «Тисяча»</b><br>
+    <td width="40%" style="vertical-align:top !important;"><b>Нумерація чисел у концентрі «Тисяча»</b><br>
 Лічильна одиниця – сотня.<br>  
 Лічба сотнями.<br> 
 Розряд сотень. Розрядні числа.<br> 
@@ -17,7 +17,7 @@
 Лічба в межах 1000. <br>
 Читання і запис трицифрових чисел. <br>
 Порівняння чисел.<br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>розуміє</i> сотню як  одиницю лічби;<br>
 <i>лічить</i> сотнями, десятками, одиницями; <br>
 <i>знає</i> способи утворення трицифрового числа;<br>

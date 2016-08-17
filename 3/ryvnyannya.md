@@ -9,7 +9,7 @@
   <tr>
     <td width="40%" style="vertical-align:top !important;"><b>Рівняння </b><br>
 Рівняння. Розв’язок рівняння.<br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>розуміє</i> сутність понять «рівняння», «розв’язок рівняння»;<br> 
 <i>розв’язує</i> прості рівняння.<br></td>
   </tr>

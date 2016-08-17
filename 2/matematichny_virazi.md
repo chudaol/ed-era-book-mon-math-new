@@ -3,7 +3,7 @@
 # Математичні вирази
 <p><b>Зміст розділу:</b></p>
    * [Числові вирази: добуток та частка](matematichny_virazi_dobutok_ta_chastka.md)
-   * [Числові вирази, в тому числі, й ті, які містять дужки](chislovy_virazi_yaky_mystyat_duzhki.md)
+   * [Числові вирази без дужок і з дужками](chislovy_virazi_yaky_mystyat_duzhki.md)
    * [Вирази зі змінною](virazi_zi_zmynnoyu.md)
 
 <div class="js-hypercomments-container">

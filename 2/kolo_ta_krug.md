@@ -9,8 +9,8 @@
   <tr>
     <td width="40%" style="vertical-align:top !important;"><b>Коло і круг</b><br>
 Коло, круг та їх елементи: центр, радіус, діаметр.<br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
-<i>розрізняє</i> коло і круг за істотними ознаками.</td>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
+<i>розрізняє</i> на малюнку коло і круг.</td>
   </tr>
 </table>
 

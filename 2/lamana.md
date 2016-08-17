@@ -10,7 +10,7 @@
     <td width="40%" style="vertical-align:top !important;"><b>Ламана</b><br>
 Ламана, ланки ламаної.<br> 
 Довжина ламаної.<br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>виділяє</i> ланки ламаної;<br>
 <i>визначає</i> довжину ламаної.<br></td>
   </tr>

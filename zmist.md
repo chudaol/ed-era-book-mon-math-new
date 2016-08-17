@@ -98,7 +98,7 @@
 <li><a href="http://mathmon14-new.ed-era.com/2/matematichny_virazi.html">Математичні вирази</a></li>
 <ul type="square">
 <li><a href="http://mathmon14-new.ed-era.com/2/matematichny_virazi_dobutok_ta_chastka.html">Числові вирази: добуток та частка</a></li>
-<li><a href="http://mathmon14-new.ed-era.com/2/chislovy_virazi_yaky_mystyat_duzhki.html">Числові вирази, в тому числі, й ті, які містять дужки</a></li>
+<li><a href="http://mathmon14-new.ed-era.com/2/chislovy_virazi_yaky_mystyat_duzhki.html">Числові вирази без дужок і з дужками</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/2/virazi_zi_zmynnoyu.html">Вирази зі змінною</a></li>
 </ul>
 </ul>
@@ -128,16 +128,13 @@
 <ul type="circle">
 <li><a href="http://mathmon14-new.ed-era.com/3/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.html">Узагальнення і систематизація навчального матеріалу за 2-й клас</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/tablitsy_mnozhennya_ta_dylennya_prodovzhennya.html">Таблиці множення і ділення (продовження)</a></li>
-<li><a href="http://mathmon14-new.ed-era.com/3/numeratsya_chisel_v_kontsentry_tisyacha.html">Нумерація чисел в концентрі «Тисяча»</a></li>
+<li><a href="http://mathmon14-new.ed-era.com/3/numeratsya_chisel_v_kontsentry_tisyacha.html">Нумерація чисел у концентрі «Тисяча»</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/arifmetichny_dii_z_chislami_na_osnovy_numeratsy.html">Арифметичні дії з числами на основі нумерації</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/dodavannya_ta_vydnymannya_tritsifrovih_chisel.html">Додавання і віднімання трицифрових чисел</a></li>
 <ul type="square">
 <li><a href="http://mathmon14-new.ed-era.com/3/usne_dodavannya_ta_vydnymannya_kruglih_tritsifrovih_chysel.html">Усне додавання і віднімання круглих трицифрових чисел (450 + 270, 450 – 270)</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/pismove_dodavannya_i_vydnymannya_tritsifrovih_chisel.html">Письмове додавання й віднімання трицифрових чисел</a></li>
-</ul>
-<li><a href="http://mathmon14-new.ed-era.com/3/mnozhennya_ta_dylennya_tritsifrovih_chisel.html">Множення і ділення трицифрових чисел</a></li>
-<ul type="square">
-<li><a href="http://mathmon14-new.ed-era.com/3/zakoni_ta_vlastivosty.html">Закони та властивості</a></li>
+<li><a href="http://mathmon14-new.ed-era.com/3/zakoni_ta_vlastivosty.html">Арифметичні дії множення та ділення. Закони та властивості</a></li>
 <li><a href="http://mathmon14-new.ed-era.com/3/pozatablichne_mnozhennya_ta_dlennya_usne_obchislennya.html">Позатабличне множення і ділення: усні обчислення</a></li>
 </ul>
 <li><a href="http://mathmon14-new.ed-era.com/3/chastini.html">Частини</a></li>

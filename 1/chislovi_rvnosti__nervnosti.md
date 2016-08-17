@@ -10,7 +10,7 @@
     <td width="40%" style="vertical-align:top !important;"><b>Числові рівності і нерівності</b><br>
 Числова рівність.<br>
 Числова нерівність.<br></td>
-    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень/учениця:</b></i><br>
 <i>розрізняє</i> числові рівності та нерівності;<br>
 <i>читає і записує</i> числові рівності, числові нерівності.</td>
   </tr>
